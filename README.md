@@ -1,5 +1,5 @@
 # hydra
-A snake clone. The snake is smart enough to crawl over itself by going a full 180° in one frame, but if it encounters itself after turning, it'll eat itself and die.
+A snake clone.
 
 ## How-to
   - Download
