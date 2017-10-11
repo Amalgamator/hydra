@@ -4,8 +4,10 @@ import math
 
 """
 TO DO:
-- add worlds
+- add worlds (background images specific to n*10 lvls)
+- add powerups
 - add enemies
+- add challenges
 - fix GAME_OVER by doing a 180° too fast
 """
 
