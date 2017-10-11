@@ -186,7 +186,8 @@ def game_loop():
         disp_msg("Snake: " + str(snake_length), black, -320, -260)
         disp_msg("needed: " + str(int(apples_needed - apple_c)), black, -320, -220)
         disp_msg("Lvl: " + str(lvl), black, -320, -240)
-
+        disp_msg('FPS: '+str(FPS+speed_mod), red, 280, 250)
+        
         # redraw snake
         snake_head = []
         snake_head.append(head_x)
