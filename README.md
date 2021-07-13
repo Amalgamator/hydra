@@ -5,7 +5,7 @@ A snake clone.
   - Download
   - Run:
 
-        sudo -H pip3 install pygame
+        pip install pygame
         python3 main.py
         
 ## Keys
